@@ -1,9 +1,9 @@
 # MacDownDocumentStats
 
-This is a Swift MacDown plug-in project that adds **Plug-ins → Document Stats**. 
+This is a MacDown plug-in project (Swift) that adds **Plug-ins → Document Stats**. 
 
 ## Description
-A plugin that shows basic document statistics, including lines, words, characters, and file dates.
+A MacDown plugin that shows basic document statistics, including lines, words, characters, and file dates.
 
 ![stats window image](https://github.com/user-attachments/assets/00ce4e85-0e8b-4ab7-935f-37f4b7ee7599)
 
